@@ -20,3 +20,8 @@ Find the latest Bass rpi image archive sdcard images for your target use-case fr
 
 You can follow the instructions found on our documentation site: 
 [Bass rpi installation](https://docs.blisscolabs.dev/installation/raspberry-pi/raspberry-pi-installation/)
+
+### Source
+
+Our main branch is open-source. If you require any of our Addons, the licenses for those are available individually. 
+- https://github.com/Bliss-Bass/Bass-ARM
