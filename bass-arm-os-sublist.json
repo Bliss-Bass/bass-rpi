@@ -1,0 +1,61 @@
+{
+  "os_list": [
+    {
+      "name": "Bass ARM (Android)",
+      "description": "A new take on Android for the Raspberry Pi, bringing the dynamic nature of Bass OS/Bliss OS to the ARM platform using Bass Toolkit to compile one source with multiple variants",
+      "icon": "https://bliss-bass.blisscolabs.dev/assets/logos/Bliss-Bass_logo.png",
+      "website": "https://bliss-bass.blisscolabs.dev/bassarm.html",
+      "random": false,
+      "subitems": [
+        {
+          "name": "Bass TabletGo IOT/IIOT - Android 14 (RPi 4B, CM4, 400) - SD Card Only",
+          "description": "AOSP based Android OS. Includes standard Tablet UI with minimal functionality with KernelSU, MicroG and FOSS app stores",
+          "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/main/assets/screenshots/TabletGo/Screenshot_20231120-082637_Quickstep-512.png",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/tablet%2Fgo%2Fv14.0-20240904025808/BassPi-TabletGO-v14_gd_rpi4_20240904025808.sdcard.img.zip",
+          "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-tablet-go",
+          "extract_size": 9680453632,
+          "extract_sha256": "466e28ef4d5fc62a17c62ca5605450b71df5d0ddf6e60ae841e42b0d0126b76e",
+          "image_download_size": 1046749786,
+          "image_download_sha256": "9665c83ab6e325abeb03bc84c243e9fa28d01b5702df019b18308ff2ff57ade8",
+          "release_date": "2024-09-04",
+          "init_format": "none",
+          "devices": [
+            "pi4-64bit"
+          ]
+        },
+        {
+          "name": "Bass Desktop Mode - Android 14 (RPi 4B, CM4, 400) - SD Card Only",
+          "description": "Minimal AOSP based Android OS. Includes SmartDock based Desktop mode with multi-window enabled, with KernelSU, MicroG and FOSS app stores",
+          "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/main/assets/screenshots/desktop_plus/photo_5114012474562161913_y-512.jpg",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/desktop%2Fv14.0-20240902134248/BassPi-Desktop-v14_gd_rpi4_20240902134248.sdcard.img.zip",
+          "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-desktop",
+          "extract_size": 12817793024,
+          "extract_sha256": "70f036fbabb8a71360d83ae10e6ddd1210092c638b2711f0c63ec0dee31c3e86",
+          "image_download_size": 1123500356,
+          "image_download_sha256": "0cde79d5cc1a295b9fa0163ec8eafb8ca7e4a26274c066641e15eb8d8d8cb788",
+          "release_date": "2024-09-02",
+          "init_format": "none",
+          "devices": [
+            "pi4-64bit"
+          ]
+        },
+        {
+          "name": "Bass Restricted Mode - Android 14 (RPi 4B, CM4, 400) - SD Card Only",
+          "description": "Minimal AOSP based Android OS. A Lockdown/Admin (UBoot boot modes) based build with the free version of Restricted Launcher (a Kiosk launcher), KernelSU, MicroG and FOSS app stores",
+          "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/main/assets/screenshots/restricted_launcher/admin-mode_main-512.png",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/restricted%2Fv14.0-20241011144117/BassPi-Restricted-v14-bm_gd_rpi4_20241011144117.sdcard.img.zip",
+          "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-restricted",
+          "extract_size": 12817793024,
+          "extract_sha256": "70f036fbabb8a71360d83ae10e6ddd1210092c638b2711f0c63ec0dee31c3e86",
+          "image_download_size": 1123500356,
+          "image_download_sha256": "0cde79d5cc1a295b9fa0163ec8eafb8ca7e4a26274c066641e15eb8d8d8cb788",
+          "release_date": "2024-10-11",
+          "init_format": "none",
+          "devices": [
+            "pi4-64bit"
+          ]
+        }
+      ]
+    }
+  ]
+}
