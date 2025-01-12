@@ -973,7 +973,7 @@
                 "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/restricted%2Fv14.0-20241011144117/BassPi-Restricted-v14-bm_gd_rpi4_20241011144117.sdcard.img.zip",
                 "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-restricted",
                 "extract_size": 3221225472,
-                "extract_sha256": "72d266cf620532faaea02c7e3900dec5d237a95de659a8f86a50ad82cef9d5c8",
+                "extract_sha256": "643bd911f6885f4d6c10ef3d3a06841843cf928f1813c7dcbc76d9ccaa787571",
                 "image_download_size": 997662982,
                 "image_download_sha256": "e4e680803bbf0a888a68e2e2dfd9926c9fc6887921d0c6f7fbbf7982ec399a7f",
                 "release_date": "2024-10-11",
