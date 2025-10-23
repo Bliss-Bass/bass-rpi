@@ -12,7 +12,7 @@
           "description": "AOSP based Android OS. Includes standard Tablet UI with minimal functionality with KernelSU, MicroG and FOSS app stores",
           "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/main/assets/screenshots/TabletGo/Screenshot_20231120-082637_Quickstep-512.png",
           "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/tablet%2Fgo%2Fv14.0-20240904025808/BassPi-TabletGO-v14_gd_rpi4_20240904025808.sdcard.img.zip",
-          "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-tablet-go",
+          "website": "https://bassos.navotpala.tech",
           "extract_size": 3221225472,
           "extract_sha256": "7020caffd5d73691afd779644cb971a5ea04ce127c75037f98ea2b34fba88bed",
           "image_download_size": 999191231,
@@ -28,7 +28,7 @@
           "description": "Minimal AOSP based Android OS. Includes SmartDock based Desktop mode with multi-window enabled, with KernelSU, MicroG and FOSS app stores",
           "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/main/assets/screenshots/desktop_plus/photo_5114012474562161913_y-512.jpg",
           "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/desktop%2Fv14.0-20240902134248/BassPi-Desktop-v14_gd_rpi4_20240902134248.sdcard.img.zip",
-          "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-desktop",
+          "website": "https://bassos.navotpala.tech",
           "extract_size": 3221225472,
           "extract_sha256": "562da08b3506e47d50cb10e4b1ec2c52ad217dd11e6ca660043eff1cf449b09f",
           "image_download_size": 1005011813,
@@ -44,7 +44,7 @@
           "description": "Minimal AOSP based Android OS. A Lockdown/Admin (UBoot boot modes) based build with the free version of Restricted Launcher (a Kiosk launcher), KernelSU, MicroG and FOSS app stores",
           "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/main/assets/screenshots/restricted_launcher/admin-mode_main-512.png",
           "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/restricted%2Fv14.0-20241011144117/BassPi-Restricted-v14-bm_gd_rpi4_20241011144117.sdcard.img.zip",
-          "website": "https://bliss-bass.blisscolabs.dev/bassarm.html#bass-restricted",
+          "website": "https://bassos.navotpala.tech",
           "extract_size": 3221225472,
           "extract_sha256": "643bd911f6885f4d6c10ef3d3a06841843cf928f1813c7dcbc76d9ccaa787571",
           "image_download_size": 997662982,
@@ -53,6 +53,38 @@
           "init_format": "none",
           "devices": [
             "pi4-64bit"
+          ]
+        },
+        {
+          "name": "Bass Desktop PC - Android 16 (RPi 5, 500, 500+) - SD Card Only",
+          "description": "Minimal AOSP based Android OS. A Lockdown/Admin (UBoot boot modes) based build with the free version of Restricted Launcher (a Kiosk launcher), KernelSU, MicroG and FOSS app stores",
+          "icon": "https://github.com/user-attachments/assets/8a5d3976-4551-43cc-bd64-5363930ba273",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-foss-202510230820-rpi5/BassRPI-16-DesktopPC-foss-202510230820-rpi5.zip",
+          "website": "https://bassos.navotpala.tech",
+          "extract_size": 15360000000,
+          "extract_sha256": "52bb808d6b9588fd8b25d43775a2eec925b388c321834db1e246c1221bfde7b7",
+          "image_download_size": 890385340,
+          "image_download_sha256": "d4a112ad456e863125275c19e78fe30b85b50ff80d8392bdbbb22bd939323a6c",
+          "release_date": "2025-10-23",
+          "init_format": "none",
+          "devices": [
+            "pi5-64bit"
+          ]
+        },
+        {
+          "name": "Bass Tablet UI - Android 16 (RPi 5, 500, 500+) - SD Card Only",
+          "description": "Minimal AOSP based Android OS. A Lockdown/Admin (UBoot boot modes) based build with the free version of Restricted Launcher (a Kiosk launcher), KernelSU, MicroG and FOSS app stores",
+          "icon": "https://github.com/user-attachments/assets/003d3f05-ceaf-4124-9cac-70058fe64313",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-TabletUI-foss-202510221844-rpi5/BassRPI-16-TabletUI-foss-202510221844-rpi5.zip",
+          "website": "https://bassos.navotpala.tech",
+          "extract_size": 15360000000,
+          "extract_sha256": "881a299fe74bc6f1ef2b066cef5b12eb1015fac4765f9d1fe826d87d207bb8ce",
+          "image_download_size": 885893805,
+          "image_download_sha256": "da74a07f97278ec317121a3156b63617a2ce75102e8a55695d1529ed5d9f749f",
+          "release_date": "2025-10-23",
+          "init_format": "none",
+          "devices": [
+            "pi5-64bit"
           ]
         }
       ]
