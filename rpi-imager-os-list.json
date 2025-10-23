@@ -930,7 +930,7 @@
           {
             "name": "Bass ARM (Android)",
             "description": "A new take on Android for the Raspberry Pi, bringing the dynamic nature of Bass OS/Bliss OS to the ARM platform using Bass Toolkit to compile one source with multiple variants",
-            "icon": "https://github.com/Bliss-Bass/bliss-bass.github.io/blob/f19f9101103013c5e8193987a18b0f026b0e4edc/assets/logos/Bliss-Bass_logo.png",
+            "icon": "https://raw.githubusercontent.com/Bliss-Bass/bliss-bass.github.io/f19f9101103013c5e8193987a18b0f026b0e4edc/assets/logos/Bliss-Bass_logo.png",
             "website": "https://bassos.navotpala.tech",
             "random": false,
             "subitems": [
@@ -984,7 +984,7 @@
               },
               {
                 "name": "Bass Desktop PC - Android 16 (RPi 5, 500, 500+) - SD Card Only",
-                "description": "Minimal AOSP based Android OS. A Lockdown/Admin (UBoot boot modes) based build with the free version of Restricted Launcher (a Kiosk launcher), KernelSU, MicroG and FOSS app stores",
+                "description": "Minimal AOSP based Android OS. Includes SmartDock based Desktop mode with multi-window enabled, MicroG, Aurora Store and FOSS app stores",
                 "icon": "https://github.com/user-attachments/assets/8a5d3976-4551-43cc-bd64-5363930ba273",
                 "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-foss-202510230820-rpi5/BassRPI-16-DesktopPC-foss-202510230820-rpi5.zip",
                 "website": "https://bassos.navotpala.tech",
@@ -1000,7 +1000,7 @@
               },
               {
                 "name": "Bass Tablet UI - Android 16 (RPi 5, 500, 500+) - SD Card Only",
-                "description": "Minimal AOSP based Android OS. A Lockdown/Admin (UBoot boot modes) based build with the free version of Restricted Launcher (a Kiosk launcher), KernelSU, MicroG and FOSS app stores",
+                "description": "Minimal AOSP based Android OS. Includes Android Tablet UI with multi-window enabled, MicroG, Aurora Store and FOSS app stores",
                 "icon": "https://github.com/user-attachments/assets/003d3f05-ceaf-4124-9cac-70058fe64313",
                 "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-TabletUI-foss-202510221844-rpi5/BassRPI-16-TabletUI-foss-202510221844-rpi5.zip",
                 "website": "https://bassos.navotpala.tech",
