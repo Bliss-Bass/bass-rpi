@@ -930,8 +930,8 @@
           {
             "name": "Bass ARM (Android)",
             "description": "A new take on Android for the Raspberry Pi, bringing the dynamic nature of Bass OS/Bliss OS to the ARM platform using Bass Toolkit to compile one source with multiple variants",
-            "icon": "https://bliss-bass.blisscolabs.dev/assets/logos/Bliss-Bass_logo.png",
-            "website": "https://bliss-bass.blisscolabs.dev/bassarm.html",
+            "icon": "https://github.com/Bliss-Bass/bliss-bass.github.io/blob/f19f9101103013c5e8193987a18b0f026b0e4edc/assets/logos/Bliss-Bass_logo.png",
+            "website": "https://bassos.navotpala.tech",
             "random": false,
             "subitems": [
               {
