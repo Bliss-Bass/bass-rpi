@@ -2,10 +2,12 @@
 
 This is the releases channel for Bass OS for ARM devices, like the Raspberry Pi. 
 
-## Bass OS for the Raspberry PI 4 series based on the GloDroid project
+## Bass OS for the Raspberry PI series based on the GloDroid project & raspberry-vanilla project
 
 [![GloDroid](https://img.shields.io/badge/GLODROID-PROJECT-blue)](https://github.com/GloDroid/glodroid_manifest)
 [![ProjectStatus](https://img.shields.io/badge/PROJECT-STATUS-yellowgreen)](https://github.com/GloDroidCommunity/raspberry-pi/issues/1)
+
+[![Raspberry-Vanilla](https://img.shields.io/badge/RASPBERRY-VANILLA-blue)](https://github.com/raspberry-vanilla)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Requirements
