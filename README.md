@@ -8,6 +8,8 @@ This is the releases channel for Bass OS for ARM devices, like the Raspberry Pi.
 [![ProjectStatus](https://img.shields.io/badge/PROJECT-STATUS-yellowgreen)](https://github.com/GloDroidCommunity/raspberry-pi/issues/1)
 
 [![Raspberry-Vanilla](https://img.shields.io/badge/RASPBERRY-VANILLA-blue)](https://github.com/raspberry-vanilla)
+[![ProjectStatus](https://img.shields.io/badge/PROJECT-STATUS-yellowgreen)](https://github.com/raspberry-vanilla/android_local_manifest/issues/1)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Requirements
