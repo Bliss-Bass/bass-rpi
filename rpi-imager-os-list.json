@@ -984,7 +984,7 @@
               },
               {
                 "name": "Bass Desktop PC - Android 16 (RPi 5, 500, 500+) - SD Card Only",
-                "description": "Minimal AOSP based Android OS. Includes SmartDock based Desktop mode with multi-window enabled, MicroG, Aurora Store and FOSS app stores",
+                "description": "Minimal AOSP based Android OS. Includes SmartDock based Desktop mode with multi-window enabled, MicroG, Aurora Store and FOSS app stores (30 day demo, unlockable license)",
                 "icon": "https://github.com/user-attachments/assets/8a5d3976-4551-43cc-bd64-5363930ba273",
                 "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-foss-202510230820-rpi5/BassRPI-16-DesktopPC-foss-202510230820-rpi5.zip",
                 "website": "https://bassos.navotpala.tech",
@@ -1000,7 +1000,7 @@
               },
               {
                 "name": "Bass Tablet UI - Android 16 (RPi 5, 500, 500+) - SD Card Only",
-                "description": "Minimal AOSP based Android OS. Includes Android Tablet UI with multi-window enabled, MicroG, Aurora Store and FOSS app stores",
+                "description": "Minimal AOSP based Android OS. Includes Android Tablet UI with multi-window enabled, MicroG, Aurora Store and FOSS app stores (30 day demo, unlockable license)",
                 "icon": "https://github.com/user-attachments/assets/003d3f05-ceaf-4124-9cac-70058fe64313",
                 "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-TabletUI-foss-202510221844-rpi5/BassRPI-16-TabletUI-foss-202510221844-rpi5.zip",
                 "website": "https://bassos.navotpala.tech",
