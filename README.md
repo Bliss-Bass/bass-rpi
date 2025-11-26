@@ -73,6 +73,8 @@ du -b target.img
 
 ```
 
+You will also want to extract the zip file and grab the size of that folder or img file.
+
 ##### Sha256sum
 
 Use the following command:
@@ -88,6 +90,8 @@ Or if the extracted .img file:
 sha256sum target.img
 
 ```
+
+You will also want to grab the sha256sum of that folder or img file we extracted above.
 
 #### Json Formatting
 
