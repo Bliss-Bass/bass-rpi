@@ -56,16 +56,48 @@
           ]
         },
         {
-          "name": "Bass Desktop PC - Android 16 QPR1 (RPi 5, 500, 500+) - SD Card Only",
-          "description": "Minimal AOSP based Android OS. Includes SmartDock based Desktop mode with multi-window and multi-display enabled, MicroG, Aurora Store and FOSS app stores (30 day demo, unlockable license)",
+          "name": "Bass Desktop PC - EMMC/SDCARD - Android 16 (RPi5/500/500+/CM5)",
+          "description": "Minimal AOSP based Android OS. Includes SmartDock DFC based Desktop mode with multi-window and multi-display enabled, MicroG, Aurora Store and FOSS app stores (30 day demo, unlockable license)",
           "icon": "https://github.com/user-attachments/assets/8a5d3976-4551-43cc-bd64-5363930ba273",
-          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-qpr1-foss-202511252026-rpi5-rc1/BassRPI-16-DesktopPC-qpr1-foss-202511252026-rpi5.zip",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-qpr1-emmc-foss-202603231724/BassRPI-16-DesktopPC-qpr1-emmc-foss-202603231724-rpi5.zip",
           "website": "https://bassos.navotpala.tech",
           "extract_size": 15360000000,
-          "extract_sha256": "f312eb6327b635f8c197b33d5b3678f793946ba37a61de22c0dd26333ff88e45",
-          "image_download_size": 954728126,
-          "image_download_sha256": "6da5ab9649b3ab4e2212a32f7f9e851b952ceac018c78021d9ec3279e801f360",
-          "release_date": "2025-11-26",
+          "extract_sha256": "501db9f018ca4397738693f7bd7e8742a16886a29b4fb987674f262c31c6252b",
+          "image_download_size": 1084094248,
+          "image_download_sha256": "e3cc56f0056da1135ca5b9b841410dc73195d3106ba9cbaee3f42bbd256dcefb",
+          "release_date": "2026-03-24",
+          "init_format": "none",
+          "devices": [
+            "pi5-64bit"
+          ]
+        },
+        {
+          "name": "Bass Desktop PC - NVME - Android 16 (RPi5/500/500+/CM5)",
+          "description": "Minimal AOSP based Android OS. Includes SmartDock DFC based Desktop mode with multi-window and multi-display enabled, MicroG, Aurora Store and FOSS app stores (30 day demo, unlockable license)",
+          "icon": "https://github.com/user-attachments/assets/8a5d3976-4551-43cc-bd64-5363930ba273",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-qpr1-emmc-foss-202603231724/BassRPI-16-DesktopPC-qpr1-nvme-foss-202603231945-rpi5.zip",
+          "website": "https://bassos.navotpala.tech",
+          "extract_size": 15360000000,
+          "extract_sha256": "7831c692a0eab92c74f0abf480979e1512837f5acb98b25ff3f9b7345a8bb7d9",
+          "image_download_size": 1084092974,
+          "image_download_sha256": "591b00dae366a45da99d7343abfad3764649ec21a39caa6bdc1e7fd502db9e22",
+          "release_date": "2026-03-24",
+          "init_format": "none",
+          "devices": [
+            "pi5-64bit"
+          ]
+        },
+        {
+          "name": "Bass Desktop PC - USB/SSD - Android 16 (RPi5/500/500+/CM5)",
+          "description": "Minimal AOSP based Android OS. Includes SmartDock DFC based Desktop mode with multi-window and multi-display enabled, MicroG, Aurora Store and FOSS app stores (30 day demo, unlockable license)",
+          "icon": "https://github.com/user-attachments/assets/8a5d3976-4551-43cc-bd64-5363930ba273",
+          "url": "https://github.com/Bliss-Bass/bass-rpi/releases/download/BassRPI-16-DesktopPC-qpr1-emmc-foss-202603231724/BassRPI-16-DesktopPC-qpr1-usb-foss-202603232216-rpi5.zip",
+          "website": "https://bassos.navotpala.tech",
+          "extract_size": 15360000000,
+          "extract_sha256": "4a96f8a6a7ae85f4a9ddd0312448aea8da1cfa70a2b9b699e389657d6c28ce65",
+          "image_download_size": 1084093877,
+          "image_download_sha256": "0b932a37c01d4bcef453cfabc60c442ea8a44916931492f45a816178b15075e8",
+          "release_date": "2026-03-24",
           "init_format": "none",
           "devices": [
             "pi5-64bit"
